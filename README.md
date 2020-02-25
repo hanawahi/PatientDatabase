@@ -3,6 +3,7 @@ Simple Database Manipulation Project - Adding/Deleting Entities Using Python, Fl
 
 README
 This document contains information and instructions on how to use my web application.
+The purpose of this project was for me to practic and get familiar with building a web application.
 
 Author: Hana Wahi
 Email: HQW5245@psu.edu
